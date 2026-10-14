@@ -1,0 +1,11 @@
+node_modules
+dist
+.angular
+.next
+build
+.DS_Store
+*.log
+
+# repositório git próprio, mantido intacto
+livros-angular/
+Trabalho_DGT2820/
