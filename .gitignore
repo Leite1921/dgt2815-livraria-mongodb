@@ -7,5 +7,5 @@ build
 *.log
 
 # repositório git próprio, mantido intacto
-livros-angular/
-Trabalho_DGT2820/
+/livros-angular/
+/Trabalho_DGT2820/
